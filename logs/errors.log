@@ -1,0 +1,20 @@
+[2026-04-28T17:24:13.271Z] Error: Erro forçado para teste
+    at Server.<anonymous> (C:\Users\gabri\OneDrive\Desktop\Trab - Backend\src\server.js:49:11)
+    at Server.emit (node:events:519:28)
+    at parserOnIncoming (node:_http_server:1140:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:119:17)
+[2026-04-28T17:41:49.030Z] Campo obrigatório: email
+[2026-04-28T17:44:09.296Z] Campo obrigatório: conteudo
+[2026-04-28T17:44:34.419Z] Campo obrigatório: usuarioId
+[2026-04-28T17:45:54.630Z] Campo obrigatório: texto
+[2026-04-28T17:45:59.811Z] Campo obrigatório: postId
+[2026-04-28T17:46:52.532Z] Campo obrigatório: postId
+[2026-04-28T17:48:14.330Z] Campo obrigatório: postId
+[2026-04-28T17:48:24.161Z] Campo obrigatório: postId
+[2026-04-28T18:08:50.057Z] ReferenceError: body is not defined
+    at Server.<anonymous> (C:\Users\gabri\OneDrive\Desktop\Trab - Backend\src\server.js:178:71)
+    at Server.emit (node:events:519:28)
+    at parserOnIncoming (node:_http_server:1140:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:119:17)
+[2026-04-28T19:10:28.157Z] Campo obrigatório: email
+[2026-04-28T20:43:45.440Z] Campo obrigatório: usuarioId
