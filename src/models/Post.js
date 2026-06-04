@@ -44,7 +44,7 @@ class Post {
     const db = await conexao.conectar();
 
     return db.collection('post').find({
-      usuarioId: usuarioId
+      usuarioId: new ObjectId(usuarioId)
     }).toArray();
   }
 
